@@ -1,6 +1,6 @@
 <style>
 table, th, td {
-  border: none;
+  border: hidden;
 }
 </style>
 <h1 align="center">Hi 👋, I'm Omar Abo-Alrob</h1>
