@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Abo-Alrob</h1>
+<h1 align="center">Hi 👋, I'm Omar Abualrob</h1>
 <h3 align="center">A passionate programmer with a strong interest in solving challenging problems and building innovative solutions. My journey in programming started with a curiosity to understand how things work, and it quickly grew into a commitment to mastering the art of coding. Along the way, I've honed my skills in competitive programming, web development, and problem-solving on platforms like LeetCode and Codeforces. Currently, I'm expanding my expertise in advanced algorithms, system design, and artificial intelligence, with the goal of developing impactful and scalable solutions. I'm excited to keep learning, collaborating, and pushing the boundaries of what's possible with technology.</h3>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
