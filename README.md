@@ -10,7 +10,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraborob&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt="omaraborob" /></p>
 <br />
 <br />
-<p align="left">
+<p>
 <a href="https://codeforces.com/profile/omaraburob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omaraburob" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omaraboalrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omaraboalrob" height="30" width="40" /></a>
 </p>
