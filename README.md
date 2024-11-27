@@ -8,7 +8,7 @@
  >
 <table align="center">
 <tr>
-<td></td><img  src="https://github-readme-stats.vercel.app/api?username=omaraborob&count_private=true&theme=dracula&hide_border=true&locale=en" alt="omaraborob",width=100 /></td>
+<td><img  src="https://github-readme-stats.vercel.app/api?username=omaraborob&count_private=true&theme=dracula&hide_border=true&locale=en" alt="omaraborob",width=100 /></td>
 <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omaraborob&count_private=true&theme=dracula&hide_border=true" alt="omaraborob",width=100 /></td>
 </tr>
 </table>
