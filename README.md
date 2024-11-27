@@ -6,9 +6,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraborob&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt="omaraborob" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaraborob&show_icons=true&locale=en" alt="omaraborob" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaraborob&count_private=true&theme=dracula&hide_border=true&locale=en" alt="omaraborob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaraborob&" alt="omaraborob" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaraborob&count_private=true&theme=dracula&hide_border=true" alt="omaraborob" /></p>
 <br />
 <p align="left">
 <a href="https://codeforces.com/profile/omaraburob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omaraburob" height="30" width="40" /></a>
