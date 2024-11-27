@@ -1,8 +1,3 @@
-<style>
-table, th, td {
-  border: hidden;
-}
-</style>
 <h1 align="center">Hi 👋, I'm Omar Abo-Alrob</h1>
 <h3 align="center">A passionate programmer with a strong interest in solving challenging problems and building innovative solutions. My journey in programming started with a curiosity to understand how things work, and it quickly grew into a commitment to mastering the art of coding. Along the way, I've honed my skills in competitive programming, web development, and problem-solving on platforms like LeetCode and Codeforces. Currently, I'm expanding my expertise in advanced algorithms, system design, and artificial intelligence, with the goal of developing impactful and scalable solutions. I'm excited to keep learning, collaborating, and pushing the boundaries of what's possible with technology.</h3>
 
@@ -11,9 +6,9 @@ table, th, td {
 
 <h3 align="center">Status</h3>
 <table align="center">
-<tr style= "border:none;">
-<td style= "border:none;"><img  src="https://github-readme-stats.vercel.app/api?username=omaraborob&count_private=true&theme=dracula&hide_border=true&locale=en" alt="omaraborob",width=100 /></td>
-<td style= "border:none;"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omaraborob&count_private=true&theme=dracula&hide_border=true" alt="omaraborob",width=100 /></td>
+<tr >
+<td ><img  src="https://github-readme-stats.vercel.app/api?username=omaraborob&count_private=true&theme=dracula&hide_border=true&locale=en" alt="omaraborob",width=100 /></td>
+<td ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omaraborob&count_private=true&theme=dracula&hide_border=true" alt="omaraborob",width=100 /></td>
 </tr>
 </table>
 <p>
