@@ -24,11 +24,11 @@
 <table align="center">
 <tr >
 <td ><img  src="https://github-readme-stats.vercel.app/api?username=omaraborob&count_private=true&theme=gruvbox&hide_border=true&locale=en" alt="omaraborob",width=100 /></td>
-<td ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omaraborob&count_private=true&theme=dracula&hide_border=true" alt="omaraborob",width=100 /></td>
+<td ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omaraborob&count_private=true&theme=gruvbox&hide_border=true" alt="omaraborob",width=100 /></td>
 </tr>
 </table>
 <p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraborob&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt="omaraborob" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraborob&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true&&theme=gruvbox" alt="omaraborob" />
 </p>
 <br /><br />
 <p align="left">
