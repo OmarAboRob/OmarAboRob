@@ -21,7 +21,7 @@
 
 
 <br /><br />
-
+ <!--  
 <h3 align="center">📊 Stats</h3>
 <table align="center">
 <tr >
@@ -32,7 +32,7 @@
 <p>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraborob&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true&&theme=gruvbox" alt="omaraborob" />
 </p>
-<br /><br />
+<br /><br />-->
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
   <a href = "mailto:omar.aboalrob.7@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
