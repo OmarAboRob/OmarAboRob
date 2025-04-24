@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&color=E0A735FF&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Omar+Abualrob+...">
 </div>
-<h3 align="center">A passionate programmer with a strong interest in solving challenging problems and building innovative solutions. My journey in programming started with a curiosity to understand how things work, and it quickly grew into a commitment to mastering the art of coding. Along the way, I've honed my skills in competitive programming, web development, and problem-solving. Currently, I'm expanding my expertise in advanced algorithms, system design, and artificial intelligence, with the goal of developing impactful and scalable solutions. I'm excited to keep learning, collaborating, and pushing the boundaries of what's possible with technology.</h3>
+<h3 align="center">A Passionate programmer focusing on problem-solving and building innovative, scalable solutions. Skilled in competitive programming, web development, and system design. Currently deepening my expertise in advanced algorithms and AI, driven by a commitment to continuous learning and impactful tech development.</h3>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
