@@ -39,7 +39,3 @@
   <a href = "https://www.linkedin.com/in/omar-aburob/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
  
 </p>
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/OmarAboRob/count.svg"></img>
-</div>
